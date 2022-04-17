@@ -1,0 +1,9 @@
+.env
+.idea
+venv
+__pychache__/
+*.py[cod]
+*$py.class
+*.so
+media
+bot.sqlite3
